@@ -11,6 +11,10 @@ This DFO Launcher is start DFO, using proxy.
 You can start by simply prepare the "proxy list text file" And "Id, Password file".
 
 # How to Use
+0) Download 
+
+   https://github.com/kagasu/DFO-Launcher/releases/tag/1.0.0
+
 1) Create "proxys.txt"
 
    Ex.)
